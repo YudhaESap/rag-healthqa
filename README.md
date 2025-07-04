@@ -60,12 +60,12 @@ This project demonstrates how to build a simple pipeline for semantic retrieval 
 ## Project Structure
 
 rag-healthqa/
-├── data/ # Sample medical articles
-├── src/ # Python scripts for retrieval & generation
-├── notebook/ # Jupyter notebook for the full pipeline
-├── examples/ # Prompt & answer samples
-├── requirements.txt
-└── README.md
+- data/ # Sample medical articles
+- src/ # Python scripts for retrieval & generation
+- notebook/ # Jupyter notebook for the full pipeline
+- examples/ # Prompt & answer samples
+- requirements.txt
+- README.md
 
 
 ---
