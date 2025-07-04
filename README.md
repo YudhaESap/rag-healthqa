@@ -67,11 +67,32 @@ rag-healthqa/
 - requirements.txt
 - README.md
 
+---
+
+## How to Run
+
+1. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+2. Run the notebook/rag_pipeline.ipynb
+
+```bash
+jupyter notebook notebook/rag_pipeline.ipynb
+
+3. Evaluate grounding of generated answers:
+
+```bash
+python notebook/evaluation.py
+
+4. Update src/config.py to change parameters like model, top_k, etc.
+
 
 ---
 
 ##  Author
 
 **Yudha E. Saputra**  
-AI Researcher · NLP · Semantic Search · Prompt Optimization  
+AI Engineer · Health Data Scientist · PhD Researcher 
 [LinkedIn](https://linkedin.com/in/yudhaesaputra)
