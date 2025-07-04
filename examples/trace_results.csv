@@ -1,0 +1,3 @@
+query,context,retrieved_docs,generated_answer,grounded,notes
+What are the symptoms of CKD?,"CKD symptoms include swelling, fatigue, and urination changes","CKD symptoms..., Diabetes is...",Common symptoms include fatigue and changes in urination,TRUE,
+How is kidney transplant eligibility determined?,"Transplant eligibility based on donor match...","Transplant..., Blood Pressure...",Eligibility is based on matching, general health,TRUE,
