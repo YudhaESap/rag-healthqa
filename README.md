@@ -90,9 +90,3 @@ python notebook/evaluation.py
 
 
 ---
-
-##  Author
-
-**Yudha E. Saputra**  
-AI Engineer · Health Data Scientist · PhD Researcher 
-[LinkedIn](https://linkedin.com/in/yudhaesaputra)
