@@ -15,7 +15,7 @@ This project demonstrates how to build a simple pipeline for semantic retrieval 
 
 ---
 
-## 🧠 Stack
+## Stack
 
 - Python 3.10+
 - FAISS
@@ -51,9 +51,9 @@ This project demonstrates how to build a simple pipeline for semantic retrieval 
 → LLM Response:
 > "Common symptoms of chronic kidney disease are fatigue, swelling in legs or ankles, and frequent urination."
 
-✅ Grounded  
-✅ No hallucinations  
-✅ Uses top result
+Grounded  
+No hallucinations  
+Uses top result
 
 ---
 
@@ -75,18 +75,19 @@ rag-healthqa/
 
 ```bash
 pip install -r requirements.txt
+```
 
 2. Run the notebook/rag_pipeline.ipynb
 
 ```bash
 jupyter notebook notebook/rag_pipeline.ipynb
+```
 
 3. Evaluate grounding of generated answers:
 
 ```bash
 python notebook/evaluation.py
-
+```
 4. Update src/config.py to change parameters like model, top_k, etc.
-
 
 ---
