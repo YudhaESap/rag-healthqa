@@ -1,5 +1,6 @@
 # app.py
-
+from dotenv import load_dotenv
+load_dotenv()
 import argparse
 from src.retriever import SimpleRetriever
 from src.generator import SimpleGenerator
