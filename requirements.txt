@@ -33,3 +33,4 @@ urllib3==2.5.0
 openai>=1.55.0
 pandas>=2.2.3
 python-dotenv>=1.0.1 
+biopython>=1.85  # for PubMed fetching
