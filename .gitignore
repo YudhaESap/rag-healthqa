@@ -22,3 +22,15 @@ venv/
 # System
 .DS_Store
 Thumbs.db
+
+# Embedding / FAISS indexes
+embeddings/*.idx
+embeddings/*.npy
+
+# Temporary or generated files
+*.tmp
+*.bak
+
+# Cache and metadata
+cache/
+tmp/
