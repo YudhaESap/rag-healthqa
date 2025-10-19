@@ -29,3 +29,7 @@ tqdm==4.67.1
 transformers==4.53.1
 typing_extensions==4.14.1
 urllib3==2.5.0
+# OpenAI API + data handling
+openai>=1.55.0
+pandas>=2.2.3
+python-dotenv>=1.0.1 
