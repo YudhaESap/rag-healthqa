@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
 import pandas as pd
 
 df = pd.read_csv('examples/trace_results.csv')
